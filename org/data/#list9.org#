@@ -1,0 +1,21 @@
+| Sweep the floor                 | sweep   | floor         | none |
+| Mop the floor                   | mop     | floor         | none |
+| Clean all countertops           | clean   | countertops   | none |
+| Clean tabletop                  | clean   | tabletop      | none |
+| Replace all garbage bins        | replace | garbage bins  | none |
+| Wipe inside of the trashcan     | wipe    | trashcan      | none |
+| Wipe outside of the trashcan    | wipe    | trashcan      | none |
+| Carry trash out to the dumpster | carry   | trash         | none |
+| Keep the kitchen clean          | keep    | kitchen       | none |
+| Clean stove                     | clean   | stove         | none |
+| Clean oven                      | clean   | oven          | none |
+| Clean refrigerator              | clean   | refrigerator  | none |
+| Clean freezer                   | clean   | freezer       | none |
+| Dispose uncovered leftovers     | dispose | leftovers     | none |
+| Wipe down countertops           | wipe    | countertops   | none |
+| Sweep floor                     | sweep   | floor         | none |
+| Dry evening meal dishes         | dry     | dishes        | none |
+| Put away meal dishes            | put     | dishes        | none |
+| Plan menu                       | plan    | menu          | none |
+| Keep the cupboards clean        | keep    | cupboards     | none |
+| Write grocery lists             | write   | grocery lists | none |
