@@ -1,6 +1,4 @@
-| Task                 |
-|----------------------|
-| Wash dishes          |
-| Empty the dishwasher |
-| Clean counters       |
-| Cook                 |
+| wash dishes          | wash  | dishes     | none | 1 |
+| empty the dishwasher | empty | dishwasher | none | 1 |
+| clean counters       | clean | counters   | none | 1 |
+| cook                 | cook  | meals      | none | 1 |
