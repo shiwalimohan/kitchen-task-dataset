@@ -15,3 +15,4 @@
 | clean refrigerator inside out                | clean | fridge           | none | 1 |
 | clean out the old food in the refrigerator   | clean | old food         | none | 1 |
 | wash kitchen floor                           | wash  | kitchen floor    | none | 1 |
+| clean toaster                                | clean | toaster          | none | 1 |

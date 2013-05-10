@@ -1,0 +1,50 @@
+| verb       |                      |                      |                       |                  |                      |
+|------------+----------------------+----------------------+-----------------------+------------------+----------------------|
+| clean      | clear-10.3           | groom-41.1.2,        | other_cos-45.4        | preparing-26.3-2 |                      |
+| wipe       | funnel-9.3-1         | wipe_manner-10.4.1-1 |                       |                  |                      |
+| wash       | floss-41.2.1         | preparing-26.3-2     | wipe_manner-10.4.1-1  |                  |                      |
+| empty      | clear-10.3-1         | other_cos-45.4       |                       |                  |                      |
+| sweep      | funnel-9.3-1-1       | meander-47.7         | run-51.3.2-1          | search-35.2      | wipe_manner-10.4.1-1 |
+| help       | help-72-1            |                      |                       |                  |                      |
+| put        | put-9.1-2            |                      |                       |                  |                      |
+| take       |                      |                      |                       |                  |                      |
+| dry        | other_cos-45.1-1     |                      |                       |                  |                      |
+| load       |                      |                      |                       |                  |                      |
+| organize   | create-26.4          | establish-55.5-1     | force-59-1            |                  |                      |
+| unload     | wipe_manner-10.4.1   |                      |                       |                  |                      |
+| mop        | wipe_instr-10.4.2-1  |                      |                       |                  |                      |
+| set        | brad-41.2.2          | force-59-1           | image_impression-25.1 | preparing-26.3-2 | put-9.1-2            |
+| carry      | carry-11.4           | cost-54.2            | fit-54.3              | cost-54.2        | sustain-55.6         |
+| dust       | wipe_manner-10.4.1-1 | spray-9.7-2          |                       |                  |                      |
+| fix        | spray-9.7-2          |                      |                       |                  |                      |
+| keep       |                      |                      |                       |                  |                      |
+| stir       |                      |                      |                       |                  |                      |
+| straighten |                      |                      |                       |                  |                      |
+| cook       |                      |                      |                       |                  |                      |
+| cut        |                      |                      |                       |                  |                      |
+| disinfect  |                      |                      |                       |                  |                      |
+| plan       |                      |                      |                       |                  |                      |
+| prepare    |                      |                      |                       |                  |                      |
+| scrub      |                      |                      |                       |                  |                      |
+| update     |                      |                      |                       |                  |                      |
+| use        |                      |                      |                       |                  |                      |
+| change     |                      |                      |                       |                  |                      |
+| clear      |                      |                      |                       |                  |                      |
+| clip       |                      |                      |                       |                  |                      |
+| cover      |                      |                      |                       |                  |                      |
+| dispose    |                      |                      |                       |                  |                      |
+| flush      |                      |                      |                       |                  |                      |
+| make       |                      |                      |                       |                  |                      |
+| measure    |                      |                      |                       |                  |                      |
+| mix        |                      |                      |                       |                  |                      |
+| pak        |                      |                      |                       |                  |                      |
+| peel       |                      |                      |                       |                  |                      |
+| pick       |                      |                      |                       |                  |                      |
+| remove     |                      |                      |                       |                  |                      |
+| replace    |                      |                      |                       |                  |                      |
+| rinse      |                      |                      |                       |                  |                      |
+| run        |                      |                      |                       |                  |                      |
+| sort       |                      |                      |                       |                  |                      |
+| treat      |                      |                      |                       |                  |                      |
+| vacuum     |                      |                      |                       |                  |                      |
+| write      |                      |                      |                       |                  |                      |

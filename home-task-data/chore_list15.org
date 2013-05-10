@@ -1,0 +1,23 @@
+Pick up the dining room
+Pick up front room
+Pick up kitchen
+Pick up bathroom
+Pick up classroom
+Pick up stairs
+Pick up hallway
+put away clean dishes
+sweep wooden floors in dining room
+sweep wooden floors in front room
+sweep wooden floors in kitchen
+sweep wooden floors in bathroom
+sweep wooden floors in classroom
+sweep wooden floors in stairs
+sweep wooden floors in hallway
+feed dog
+water dog
+take dirty clothes to laundry room
+put away clean clothes
+keep room clean
+empty bathroom trash
+feed cats
+make beds

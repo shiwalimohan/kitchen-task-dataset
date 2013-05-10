@@ -1,0 +1,58 @@
+mop Kitchen
+wipe washer
+wipe dryer
+straighten drawers
+straighten dishes
+dust table in Dining room
+dust pictures in Dining room
+dust table in living room
+dust piano in living room
+dust desk in living room
+dust lamps in living room
+wash Kitchen cabinets
+dust hall pictures
+clean mirror in living room
+dust Office
+dust dresser
+dust night stands
+dust window sill
+clean sink in bathroom
+clean mirror in bathroom
+clean toilet in bathroom
+clean shelf in bathroom
+straighten Dining room
+vacuum Dining room
+sort laundry
+sweep laundry room
+fold laundry
+make bed
+pick up bedroom
+straighten Hall
+straighten Living room
+straighten Back bathroom
+straighten Front bathroom
+straighten Office
+straighten Dining room
+wipe Living room window sill
+wipe stove
+wipe walls
+wipe oven
+wipe dish washer
+wipe refrigerator
+water plant
+vacuum Hall
+vacuum Living room
+vacuum father's room
+get mail
+Put Away Food
+Wipe Table
+Set Table
+Help meal preparation
+Clear Table
+Empty Dishwasher
+Empty Trash
+Wash Dishes
+Wipe Counters
+Empty Sink
+Pick up Floor
+Wipe Counters

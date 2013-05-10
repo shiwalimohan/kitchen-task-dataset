@@ -1,0 +1,58 @@
+Prepare meals
+Set the table
+Clear the table
+Wash Dishes
+Load Dishwasher
+Clean Counter top
+Clean Stove Top
+Organize Counter top
+Clean Drawers
+Organize Drawers
+Clean Cupboards
+Organize Cupboards
+Clean Fridge
+Organize Fridge
+Clean Freezer
+Organize Freezer
+Clean Sink
+Clean Microwave
+Make bed
+Pick up-put away clothes
+Tidy closet
+Clean off dresser
+Clean off work desk
+Pick up toys
+Clean Shower
+Clean bath Tub
+Clean Toilets
+Clean bathroom Sinks
+Clean bathroom Counters
+Clean bathroom Mirrors
+Clean bathroom Drawers
+Clean bathroom Cupboards
+Pick up books
+Pick up toys
+Organize bookshelves
+Clean Top Surfaces
+Clean computer workspace
+Clean tables
+Dust Top Surfaces
+Dust computer workspace
+Dust tables
+Sort Laundry into loads
+Wash Laundry
+Hang Laundry
+Dry Laundry
+Fold Laundry
+Put away Laundry
+Dry mop Floors
+Sweep Floors
+Wet mop floors
+scrub floors
+Vacuum Floors
+Shampoo carpets
+Wax Floors
+Take out garbage
+Dust anything else
+Take care of pets
+Wash Windows
