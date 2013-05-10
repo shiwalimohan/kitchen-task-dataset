@@ -9,6 +9,57 @@ wipe countertops,wipe,countertops,none,1,list8.org
 wipe food-preparation areas,wipe,food-preparation-areas,none,1,list8.org
 set table,set,table,none,1,list8.org
 sweep kitchen floor,sweep,kitchen floor,none,1,list8.org
+wash dishes,wash,dishes,none,1,list12.org
+disinfect cutting boards,disinfect,cutting boards,none,1,list12.org
+wipe down counters,wipe,counter,none,1,list12.org
+wipe down sink,wipe,sink,none,1,list12.org
+sweep kitchen floor,sweep,kitchen floor,none,1,list12.org
+take out kitchen trash,take,kitchen trash,none,1,list12.org
+cook a healthy meal,cook,healthy meal,none,1,list12.org
+add needed items to the shopping list,add,needed items,none,1,list12.org
+help dust,dust,none,none,1,list16.org
+put napkins on the table,put,napkins,none,1,list16.org
+set the table,set,table,none,1,list16.org
+put dishes in the dishwasher,put,dishes,none,1,list16.org
+clear table,clear,table,none,1,list16.org
+put away groceries,put,groceries,none,1,list16.org
+make dinner,make,dinner,none,1,list16.org
+load dishwasher,load,dishwasher,none,1,list16.org
+empty dishwasher,empty,dishwasher,none,1,list16.org
+take out trash,take,trash,none,1,list16.org
+take garbage out,take,garbage,none,1,list16.org
+clean the kitchen,clean,kitchen,none,1,list16.org
+make small meals,make,small meals,none,1,list16.org
+wash dishes,wash,dishes,none,1,list16.org
+cook food,cook,food,none,1,list16.org
+prepare food,prepare,food,none,1,list16.org
+carry groceries,carry,groceries,none,1,list16.org
+prepare simple meals,prepare,simple meals,none,1,list16.org
+prepare meals,prepare,meals,none,1,list16.org
+prepare grocery lists,prepare,grocery lists,none,1,list16.org
+set out the place mats,set,placemats,none,1,list11.org
+set out the plates,set,plates,none,1,list11.org
+set out the napkins,set,napkins,none,1,list11.org
+set out the plastic cups,set,plastic cups,none,1,list11.org
+make a salad,make,salad,none,1,list11.org
+unload the silverware from the dishwasher,unload,silverware,none,1,list11.org
+put condiments away,put,condiments,none,1,list11.org
+help gather a meal's ingredients from the fridge,gather,meal's ingredients,none,1,list11.org
+help gather a meal's ingredients from the pantry,gather,meal's ingredients,none,1,list11.org
+clear the table,clear,table,none,1,list11.org
+clean the table,clean,table,none,1,list11.org
+prepare side dishes,prepare,side dishes,none,1,list11.org
+fetch snack foods,fetch,snack foods,none,1,list11.org
+clear plate from the table,clear,plate,none,1,list11.org
+clear cup from the table,clear,cup,none,1,list11.org
+clear silverware from the table,clear,silverware,none,1,list11.org
+make school lunch,make,school lunch,none,1,list11.org
+make toast,make,toas,none,1,list11.org
+make frozen waffles,make,frozen waffles,none,1,list11.org
+stack clean glasses from the dishwasher on the counter,stack,clean glasses,none,1,list11.org
+stack clean dishes from the dishwasher on the counter,stack,clean dishes,none,1,list11.org
+put away reusable plastic containers from the dishwasher,put,reusable plastic containers,none,1,list11.org
+put away cooking utensils from the dishwasher,put,cooking utensils,none,1,list11.org
 wash tablecloth,wash,tablecloth,none,1,list3.org
 wash placemats,wash,placemats,none,1,list3.org
 wash towels,wash,towels,none,1,list3.org
@@ -66,6 +117,25 @@ clean refrigerator inside out,clean,fridge,none,1,list5.org
 clean out the old food in the refrigerator,clean,old food,none,1,list5.org
 wash kitchen floor,wash,kitchen floor,none,1,list5.org
 clean toaster,clean,toaster,none,1,list5.org
+plan meals,plan,meals,none,1,list13.org
+prepare meals,prepare,meals,none,1,list13.org
+set table,set,table,none,1,list13.org
+clear table,clear,table,none,1,list13.org
+wash dishes,wash,dishes,none,1,list13.org
+load dishwasher,load,dishwasher,none,1,list13.org
+clean counter,clean,counter,none,1,list13.org
+organize counter,organize,counter,none,1,list13.org
+clean drawers,clean,drawers,none,1,list13.org
+organize drawers,organize,drawers,none,1,list13.org
+clean cupboards,clean,cupboards,none,1,list13.org
+organize cupboards,organize,cupboards,none,1,list13.org
+clean sink,clean,sink,none,1,list13.org
+clean fridge,clean,fridge,none,1,list13.org
+organize fridge,organize,fridge,none,1,list13.org
+clean freezer,clean,freezer,none,1,list13.org
+organize freezer,organize,freezer,none,1,list13.org
+clean microwave,clean,microwave,none,1,list13.org
+take out garbage,take,garabge,none,1,list13.org
 unload dishwasher,unload,dishwasher,none,1,list10.org
 set table,set,table,none,1,list10.org
 help with meals,help,meals,none,1,list10.org
@@ -84,12 +154,12 @@ dry pans,dry,pan,none,1,list10.org
 dry large bowls,dry,bowl,none,1,list10.org
 clean sinks,clean,sink,none,1,list10.org
 clean counter,clean,counter,none,1,list10.org
-clean fridge,wipe,fridge,none,1,list10.org
+clean fridge,clean,fridge,none,1,list10.org
 wipe down sink,wipe,sink,none,1,list10.org
 wipe down counter,wipe,counter,none,1,list10.org
-wipe down fridge,empty,fridge,none,1,list10.org
-empty trash,sweep,trash,none,1,list10.org
-sweep floor,floor,floor,none,1,list10.org
+wipe down fridge,wipe,fridge,none,1,list10.org
+empty trash,empty,trash,none,1,list10.org
+sweep floor,sweep,floor,none,1,list10.org
 clean fridge,clean,fridge,none,1,list10.org
 wipe out microwave,wipe,microwave,none,1,list10.org
 wipe out oven,wipe,oven,none,1,list10.org
@@ -221,5 +291,5 @@ update freezer inventory,update,freezer inventory,none,1,list4.org
 wash kitchen rugs,wash,kitchen rugs,none,1,list4.org
 clean microwave,clean,microwave,none,1,list4.org
 straighten cabinets and drawers,straighten,cabinets,none,1,list4.org
-dust light fixtures,dist,light fixtures,none,1,list4.org
+dust light fixtures,dust,light fixtures,none,1,list4.org
 clean garbage can,clean,garbage can,none,1,list4.org

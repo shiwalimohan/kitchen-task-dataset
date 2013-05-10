@@ -28,47 +28,40 @@ def CreateClient():
         exit('Login Error')
     return client
 
-def GetDirectory(directory, client):
-    q = gdata.docs.client.DocsQuery(title=directory, title_exact='true', show_collections='true')
-    folder = client.GetResources(q=q).entry[0]
-    return folder
-
-def CreateNewSpreadSheet(directory,googleSpreadSheet,file):
+def CreateNewSpreadSheet(googleSpreadSheet,file,keyfile):
     client = CreateClient()
-    folder = GetDirectory(directory, client)
-    print "In folder: %s" % folder.title.text
+    kHandle = open(keyfile, 'r')
 
-    document = gdata.docs.data.Resource(type='spreadsheet', title=googleSpreadSheet)
+    document = client.GetResourceById(kHandle.readline().strip())
     print "Uploading file at: %s" % file
 
     media = gdata.data.MediaSource()
     media.SetFileHandle(file, 'text/csv')
     
-    document = client.CreateResource(document, media=media, collection=folder)
+    document = client.UpdateResource(document, media=media)
     print 'Created and uploaded:', document.title.text, document.resource_id.text
+    kHandle.close
 
 def main(argv):
     
     file= ''
     googleSpreadSheet= ''
     directory=''
+    keyfile=''
 
     try:
-        opts, args = getopt.getopt(argv, "f:d:s:", ["file=","directory=","spreadsheet="])
+        opts, args = getopt.getopt(argv, "f:s:k:", ["file=","spreadsheet=","keyfile="])
     except getopt.GetoptError:
-        exit('uploadGoogleSpreadSheet.py -f <csvfile> -d <google-directory> -s <google-spread-sheet>')
+        exit('uploadGoogleSpreadSheet.py -f <csvfile> -s <google-spread-sheet> -k <file-with-spreadsheet-key')
         
     for opt, arg in opts:
         if opt in ("-f", "--filestring"):
             file = arg
         elif opt in ("-s", "--spreadsheet"):
             googleSpreadSheet = arg
-        elif opt in ("-d", "--directory"):
-            directory = arg
-
-    CreateNewSpreadSheet(directory,googleSpreadSheet,file)
-
-
+        elif opt in ("-k", "--keyfile"):
+            keyfile = arg
+    CreateNewSpreadSheet(googleSpreadSheet,file,keyfile)
 
 if __name__ == "__main__":
    main(sys.argv[1:])

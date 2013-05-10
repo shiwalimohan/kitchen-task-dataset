@@ -28,5 +28,5 @@
 | wash kitchen rugs                                             | wash       | kitchen rugs       | none                                      |
 | clean microwave                                               | clean      | microwave          | none                                      |
 | straighten cabinets and drawers                               | straighten | cabinets           | none                                      |
-| dust light fixtures                                           | dist       | light fixtures     | none                                      |
+| dust light fixtures                                           | dust       | light fixtures     | none                                      |
 | clean garbage can                                             | clean      | garbage can        | none                                      |

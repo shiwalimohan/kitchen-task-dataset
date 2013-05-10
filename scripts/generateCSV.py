@@ -22,7 +22,7 @@ def collateFilesAsCSV(ifiles, ofile, vfile):
                 for word in words:
                     wordStr = word.strip()
                     oHandle.write(wordStr + ",")
-                oHandle.write("\n")
+                oHandle.write("1," + file.split('/')[-1] + "\n")
                 verbList.append(words[config.VERB_COLUMN].strip() + "\n")
         print "added file: %s" % file
         handle.close()

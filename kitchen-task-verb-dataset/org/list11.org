@@ -1,0 +1,23 @@
+| set out the place mats                                   | set     | placemats                   | none |
+| set out the plates                                       | set     | plates                      | none |
+| set out the napkins                                      | set     | napkins                     | none |
+| set out the plastic cups                                 | set     | plastic cups                | none |
+| make a salad                                             | make    | salad                       | none |
+| unload the silverware from the dishwasher                | unload  | silverware                  | none |
+| put condiments away                                      | put     | condiments                  | none |
+| help gather a meal's ingredients from the fridge         | gather  | meal's ingredients          | none |
+| help gather a meal's ingredients from the pantry         | gather  | meal's ingredients          | none |
+| clear the table                                          | clear   | table                       | none |
+| clean the table                                          | clean   | table                       | none |
+| prepare side dishes                                      | prepare | side dishes                 | none |
+| fetch snack foods                                        | fetch   | snack foods                 | none |
+| clear plate from the table                               | clear   | plate                       | none |
+| clear cup from the table                                 | clear   | cup                         | none |
+| clear silverware from the table                          | clear   | silverware                  | none |
+| make school lunch                                        | make    | school lunch                | none |
+| make toast                                               | make    | toas                        | none |
+| make frozen waffles                                      | make    | frozen waffles              | none |
+| stack clean glasses from the dishwasher on the counter   | stack   | clean glasses               | none |
+| stack clean dishes from the dishwasher on the counter    | stack   | clean dishes                | none |
+| put away reusable plastic containers from the dishwasher | put     | reusable plastic containers | none |
+| put away cooking utensils from the dishwasher            | put     | cooking utensils            | none |

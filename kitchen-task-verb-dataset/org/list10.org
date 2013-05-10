@@ -16,12 +16,12 @@
 | dry large bowls          | dry        | bowl       | none |
 | clean sinks              | clean      | sink       | none |
 | clean counter            | clean      | counter    | none |
-| clean fridge             | wipe       | fridge     | none |
+| clean fridge             | clean      | fridge     | none |
 | wipe down sink           | wipe       | sink       | none |
 | wipe down counter        | wipe       | counter    | none |
-| wipe down fridge         | empty      | fridge     | none |
-| empty trash              | sweep      | trash      | none |
-| sweep floor              | floor      | floor      | none |
+| wipe down fridge         | wipe       | fridge     | none |
+| empty trash              | empty      | trash      | none |
+| sweep floor              | sweep      | floor      | none |
 | clean fridge             | clean      | fridge     | none |
 | wipe out microwave       | wipe       | microwave  | none |
 | wipe out oven            | wipe       | oven       | none |

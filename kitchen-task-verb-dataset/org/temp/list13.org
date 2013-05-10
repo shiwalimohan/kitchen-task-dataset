@@ -1,19 +1,19 @@
-| plan meals         |
-| prepare meals      |
-| set table          |
-| clear table        |
-| wash dishes        |
-| load dishwasher    |
-| clean counter      |
-| organize counter   |
-| clean drawers      |
-| organize drawers   |
-| clean cupboards    |
-| organize cupboards |
-| clean skin         |
-| clean fridge       |
-| organize fridge    |
-| clean freezer      |
-| organize freezer   |
-| clean microwave    |
-| take out garbage   |
+| plan meals         | plan     | meals      | none |
+| prepare meals      | prepare  | meals      | none |
+| set table          | set      | table      | none |
+| clear table        | clear    | table      | none |
+| wash dishes        | wash     | dishes     | none |
+| load dishwasher    | load     | dishwasher | none |
+| clean counter      | clean    | counter    | none |
+| organize counter   | organize | counter    | none |
+| clean drawers      | clean    | drawers    | none |
+| organize drawers   | organize | drawers    | none |
+| clean cupboards    | clean    | cupboards  | none |
+| organize cupboards | organize | cupboards  | none |
+| clean sink         | clean    | sink       | none |
+| clean fridge       | clean    | fridge     | none |
+| organize fridge    | organize | fridge     | none |
+| clean freezer      | clean    | freezer    | none |
+| organize freezer   | organize | freezer    | none |
+| clean microwave    | clean    | microwave  | none |
+| take out garbage   | take     | garabge    | none |

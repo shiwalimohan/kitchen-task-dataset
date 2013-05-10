@@ -1,0 +1,9 @@
+| wash dishes                           | wash      | dishes         | none |
+| disinfect cutting boards              | disinfect | cutting boards | none |
+| wipe down counters                    | wipe      | counter        | none |
+| wipe down sink                        | wipe      | sink           | none |
+| sweep kitchen floor                   | sweep     | kitchen floor  | none |
+| take out kitchen trash                | take      | kitchen trash  | none |
+| cook a healthy meal                   | cook      | healthy meal   | none |
+| add needed items to the shopping list | add       | needed items   | none |
+

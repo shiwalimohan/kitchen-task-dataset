@@ -1,0 +1,21 @@
+| help dust                    | dust    | none          | none |
+| put napkins on the table     | put     | napkins       | none |
+| set the table                | set     | table         | none |
+| put dishes in the dishwasher | put     | dishes        | none |
+| clear table                  | clear   | table         | none |
+| put away groceries           | put     | groceries     | none |
+| make dinner                  | make    | dinner        | none |
+| load dishwasher              | load    | dishwasher    | none |
+| empty dishwasher             | empty   | dishwasher    | none |
+| take out trash               | take    | trash         | none |
+| take garbage out             | take    | garbage       | none |
+| clean the kitchen            | clean   | kitchen       | none |
+| make small meals             | make    | small meals   | none |
+| wash dishes                  | wash    | dishes        | none |
+| cook food                    | cook    | food          | none |
+| prepare food                 | prepare | food          | none |
+| carry groceries              | carry   | groceries     | none |
+| prepare simple meals         | prepare | simple meals  | none |
+| prepare meals                | prepare | meals         | none |
+| prepare grocery lists        | prepare | grocery lists | none |
+
