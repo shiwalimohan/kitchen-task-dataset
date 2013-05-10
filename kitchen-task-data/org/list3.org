@@ -2,7 +2,7 @@
 | wash placemats                                     | wash     | placemats         | none              | 1 |
 | wash towels                                        | wash     | towels            | none              | 1 |
 | wash dishcloth                                     | wash     | dishcloths        | none              | 1 |
-| empty crumbs from the toaster                      | empty    | crumbs            |                   | 1 |
+| empty crumbs from the toaster                      | empty    | crumbs            | none              | 1 |
 | clean coffee pot                                   | clean    | coffee pot        | none              | 1 |
 | clean coffee filter area                           | clean    | coffe filter area | none              | 1 |
 | wipe off microwave                                 | wipe     | microwave         | none              | 1 |

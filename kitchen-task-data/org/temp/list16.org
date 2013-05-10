@@ -1,0 +1,21 @@
+| help dust                    |
+| put napkins on the table     |
+| set the table                |
+| put dishes in the dishwasher |
+| clear table                  |
+| put away groceries           |
+| make dinner                  |
+| load dishwasher              |
+| empty dishwasher             |
+| take out trash               |
+| take garbage out             |
+| clean the kitchen            |
+| make small meals             |
+| wash dishes                  |
+| cook food                    |
+| prepare food                 |
+| carry groceries              |
+| prepare simple meals         |
+| prepare meals                |
+| prepare grocery lists        |
+
