@@ -1,0 +1,32 @@
+| clean up dishes after every meal                              | clean      | dishes             | none                                      |
+| clean up pots after every meal                                | clean      | pots               | none                                      |
+| clean up pans after every meal                                | clean      | pans               | none                                      |
+| run dishwasher as needed                                      | run        | dishwasher         | none                                      |
+| empty dishwasher when clean                                   | empty      | dishwasher         | none                                      |
+| wipe down kitchen counters                                    | wipe       | kitchen counters   | none                                      |
+| wipe down table                                               | wipe       | table              | none                                      |
+| wipe down stove top                                           | wipe       | stove top          | none                                      |
+| empty trash can                                               | empty      | trash can          | none                                      |
+| sweep kitchen floor                                           | sweep      | kitchen floor      | none                                      |
+| change out your kitchen towels                                | change     | kitchen towers     | none                                      |
+| wipe up spills as they occur                                  | wipe       | spills             | none                                      |
+| clean out the refridgerator of older food                     | clean      | fridge             | none                                      |
+| clean out the freezer of older food                           | clean      | freezer            | none                                      |
+| mop the kitchen floor                                         | mop        | kitchen floor      | none                                      |
+| flush kitchen drain with boiling water                        | flush      | kitchen drain      | boiling water                             |
+| disinfect kitchen counters                                    | disinfect  | kitchen counters   | none                                      |
+| disinfect work surfaces                                       | disinfect  | work surfaces      | none                                      |
+| take out recycling                                            | take       | recycling          | none                                      |
+| clean coffeemaker                                             | clean      | coffeemaker        | none                                      |
+| clean dishwasher                                              | clean      | dishwasher         | none                                      |
+| clean oven                                                    | clean      | oven               | none                                      |
+| clean kitchen sink with vinegar baking soda and boiling water | clean      | kitchen sink       | vinegar and baking soda and boiling water |
+| clean inside refridegrator                                    | clean      | fridge             | none                                      |
+| wipe outside of kitchen appliances                            | wipe       | kitchen appliances | none                                      |
+| update pantry inventory                                       | update     | pantry inventory   | none                                      |
+| update freezer inventory                                      | update     | freezer inventory  | none                                      |
+| wash kitchen rugs                                             | wash       | kitchen rugs       | none                                      |
+| clean microwave                                               | clean      | microwave          | none                                      |
+| straighten cabinets and drawers                               | straighten | cabinets           | none                                      |
+| dust light fixtures                                           | dist       | light fixtures     | none                                      |
+| clean garbage can                                             | clean      | garbage can        | none                                      |

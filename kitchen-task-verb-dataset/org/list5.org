@@ -1,0 +1,18 @@
+| sweep kitchen floor                          | sweep | kitchen floor    | none |
+| wipe baseboards in the kitchen               | wipe  | baseboards       | none |
+| empty the trash from  kitchen                | empty | trash            | none |
+| take the trash out to the street for pick up | take  | trash            | none |
+| make lunch                                   | make  | lunch            | none |
+| pick up milk/bread/etc. from the store       | pick  | milk             | none |
+| clean the kitchen counters                   | clean | kitchen counters | none |
+| emptying the dishwasher                      | empty | dishwasher       | none |
+| clean dinner dishes                          | clean | dinner dishes    | none |
+| clean lunch dishes                           | clean | lunch dishes     | none |
+| clean breakfast dishes                       | clean | breakfast dishes | none |
+| clean windows in the kitchen                 | clean | windows          | none |
+| clean refrigerator shelves                   | clean | fridge shelves   | none |
+| clean refrigerator door                      | clean | fridge door      | none |
+| clean refrigerator inside out                | clean | fridge           | none |
+| clean out the old food in the refrigerator   | clean | old food         | none |
+| wash kitchen floor                           | wash  | kitchen floor    | none |
+| clean toaster                                | clean | toaster          | none |

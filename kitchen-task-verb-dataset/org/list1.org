@@ -1,0 +1,8 @@
+| loading dishwasher    | load   | dishwasher | none |
+| unloading dishwasher  | unload | dishwasher | none |
+| putting away dishes   | put    | dishes     | none |
+| wiping countertop     | wipe   | countertop | none |
+| cleaning stovetop     | clean  | stovetop   | none |
+| wiping down microwave | wipe   | microwave  | none |
+| sweeping floor        | sweep  | floor      | none |
+| mopping floor         | mop    | floor      | none |

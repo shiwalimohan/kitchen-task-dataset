@@ -1,0 +1,40 @@
+| carry empty plate to counter                  | carry    | plate                | none           |
+| put placemats on table                        | put      | placemats            | none           |
+| stir batters.                                 | stir     | batter               | none           |
+| pour ingredients.                             | pour     | ingredients          | none           |
+| wipe up small spills                          | wipe     | spills               | none           |
+| measure ingredients                           | measure  | ingredients          | none           |
+| stir ingredients                              | stir     | ingredients          | none           |
+| set the table                                 | set      | table                | none           |
+| clear the table                               | clear    | table                | none           |
+| unload utensils from dishwasher               | unload   | utensils             | none           |
+| pack lunch                                    | pack     | lunch                | none           |
+| fix after-school snacks                       | fix      | snacks               | none           |
+| fix a sandwich                                | fix      | sandwich             | none           |
+| fix a cold cereal                             | fix      | cereal               | none           |
+| fix a toast                                   | fix      | toast                | none           |
+| wash dishes at sink                           | wash     | dishes               | none           |
+| clean tabletops with nontoxic cleanser        | clean    | tabletops            | none           |
+| clean countertops with nontoxic cleanser      | clean    | countertops          | none           |
+| use stovetop with supervision                 | use      | stovetop             | none           |
+| use oven with supervision                     | use      | oven                 | none           |
+| carry in groceries                            | carry    | groceries            | none           |
+| make grocery list                             | make     | grocery list         | none           |
+| organize pantry                               | organize | pantry               | none           |
+| organize kitchen cabinets                     | organize | kitchen cabinets     | none           |
+| load dishwasher                               | load     | dishwasher           | none           |
+| unload dishwasher                             | unload   | dishwasher           | none           |
+| take recycling to the curb                    | take     | recycling            | none           |
+| take trash to the curb                        | take     | trash                | none           |
+| plan family meals for the week                | plan     | family meals         | none           |
+| put away groceries                            | put      | groceries            | none           |
+| sort recycling                                | sort     | recycling            | none           |
+| clip coupons                                  | clip     | coupons              | none           |
+| clean wastebaskets with soap and water weekly | clean    | wastebaskets         | soap and water |
+| clean garbage cans with soap and water weekly | clean    | garbage cans         | soap and water |
+| peel vegetables                               | peel     | vegetables           | none           |
+| cut fruit                                     | cut      | fruit                | none           |
+| prepare dinner twice a week                   | prepare  | dinner               | none           |
+| clean out fridge                              | clean    | fridge               | none           |
+| deep clean household appliances               | clean    | household appliances | none           |
+

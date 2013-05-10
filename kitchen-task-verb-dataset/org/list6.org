@@ -1,0 +1,4 @@
+| wash dishes          | wash  | dishes     | none |
+| empty the dishwasher | empty | dishwasher | none |
+| clean counters       | clean | counters   | none |
+| cook                 | cook  | meals      | none |

@@ -1,0 +1,11 @@
+| load dishwasher             | load    | dishwasher             | none |
+| unload dishwasher           | unload  | dishwasher             | none |
+| wash dishes                 | wash    | dishes                 | none |
+| dry dishes                  | dry     | dishes                 | none |
+| pack left-over food         | pack    | left-over food         | none |
+| prepare food                | prepare | food                   | none |
+| cook meals                  | cook    | meals                  | none |
+| wipe countertops            | wipe    | countertops            | none |
+| wipe food-preparation areas | wipe    | food-preparation-areas | none |
+| set table                   | set     | table                  | none |
+| sweep kitchen floor         | sweep   | kitchen floor          | none |

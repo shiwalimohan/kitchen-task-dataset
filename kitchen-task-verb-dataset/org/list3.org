@@ -1,0 +1,39 @@
+| wash tablecloth                                    | wash     | tablecloth        | none              |
+| wash placemats                                     | wash     | placemats         | none              |
+| wash towels                                        | wash     | towels            | none              |
+| wash dishcloth                                     | wash     | dishcloths        | none              |
+| empty crumbs from the toaster                      | empty    | crumbs            | none              |
+| clean coffee pot                                   | clean    | coffee pot        | none              |
+| clean coffee filter area                           | clean    | coffe filter area | none              |
+| wipe off microwave                                 | wipe     | microwave         | none              |
+| wipe off mixer                                     | wipe     | mixe              | none              |
+| wipe off coffee maker                              | wipe     | coffemaker        | none              |
+| wipe off toaster                                   | wipe     | toaster           | none              |
+| clean top of the refridgerator                     | clean    | fridge            | none              |
+| clean stove hood                                   | clean    | stove hood        | none              |
+| wipe off front of the cabinets                     | wipe     | cabinets          | none              |
+| wipe off front of refridgerator                    | wipe     | fridge            | none              |
+| wipe off front of stove                            | wipe     | store             | none              |
+| wipe off front off dishwasher                      | wipe     | dishwasher        | none              |
+| empty out-of-date food from refriderator           | empty    | fridge            | none              |
+| empty out-of-date food from freezer                | empty    | fride             | none              |
+| organize cupboard                                  | organize | cupboard          | none              |
+| clean cupboard                                     | clean    | cupboard          | none              |
+| organize drawer                                    | organize | drawer            | none              |
+| clean drawer                                       | clean    | drawer            | none              |
+| organize pantry shelf                              | organize | pantry shelf      | none              |
+| clean pantry shelf                                 | clean    | pantry shelf      | none              |
+| clean microwave                                    | clean    | microwave         | none              |
+| remove clutter from counter                        | remove   | clutter           | none              |
+| wipe-off counter                                   | wipe     | counter           | none              |
+| treat any stains on counter with clorox bleach pen | treat    | stains            | clorox bleach pen |
+| clean stove top                                    | clean    | stove top         | none              |
+| clean stove eye pans                               | clean    | stove eye pants   | none              |
+| scrub sink                                         | scrub    | sink              | none              |
+| scrub faucet                                       | scrub    | faucet            | none              |
+| dust blinds                                        | dust     | blinds            | none              |
+| clean window                                       | clean    | window            | none              |
+| clean window sill                                  | clean    | window sill       | none              |
+| wipe down kitchen table                            | wipe     | kitchen table     | none              |
+| wipe down kitchen chairs                           | wipe     | kitchen table     | none              |
+| wipe down garbage can                              | wipe     | garbage can       | none              |

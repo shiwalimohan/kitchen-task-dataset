@@ -1,0 +1,22 @@
+| cut vegetables          | cut    | vegetables        | none   |
+| stir ingredients        | stir   | ingredients       | none   |
+| mix ingredients         | mix    | ingredients       | none   |
+| setting the table       | set    | table             | none   |
+| plan meals              | plan   | meals             | none   |
+| wipe salt shakers       | wipe   | salt shakers      | none   |
+| clean condiment bottles | clean  | condiment bottles | none   |
+| load the dishwasher     | load   | dishwasher        | none   |
+| wash dishes             | wash   | dishes            | none   |
+| dry dishes              | dry    | dishes            | none   |
+| put away dishes         | put    | dishes            | none   |
+| clean sink              | clean  | sink              | none   |
+| wipe stove with sponge  | wipe   | stove             | sponge |
+| wipe countertops        | wipe   | countertops       | none   |
+| keep countertops clean  | keep   | countertops       | none   |
+| vacuum floor            | vacuum | floor             | none   |
+| sweep floor             | sweep  | floor             | none   |
+| dust floor              | dust   | floor             | none   |
+| take out the trash      | take   | trash             | none   |
+| take trash to the curb  | take   | trash             | none   |
+| wipe the trash can      | wipe   | trash             | none   |
+
