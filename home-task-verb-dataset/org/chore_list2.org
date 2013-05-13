@@ -1,0 +1,60 @@
+| prepare meals            | prepare  | meals              | none |
+| set the table            | set      | table              | none |
+| clear the table          | clean    | table              | none |
+| wash dishes              | wash     | dishes             | none |
+| load dishwasher          | load     | dishwasher         | none |
+| clean counter top        | clean    | countertop         | none |
+| clean stove top          | clean    | stovetop           | none |
+| organize counter top     | organize | countertop         | none |
+| clean drawers            | clean    | drawers            | none |
+| organize drawers         | organize | drawers            | none |
+| clean cupboards          | clean    | cupboards          | none |
+| organize cupboards       | organize | cupboards          | none |
+| clean fridge             | clean    | fridge             | none |
+| organize fridge          | organize | fridge             | none |
+| clean freezer            | clean    | freezer            | none |
+| organize freezer         | organize | freezer            | none |
+| clean sink               | clean    | sink               | none |
+| clean microwave          | clean    | microwave          | none |
+| make bed                 | make     | bed                | none |
+| pick up clothes          | pick     | clothes            | none |
+| put away clothes         | put      | clothes            | none |
+| tidy closet              | tidy     | closet             | none |
+| clean off dresser        | clean    | dresser            | none |
+| clean off work desk      | clean    | work desk          | none |
+| pick up toys             | pick     | toys               | none |
+| clean shower             | clean    | shower             | none |
+| clean bath tub           | clean    | bath tub           | none |
+| clean toilets            | clean    | toilets            | none |
+| clean bathroom sinks     | clean    | bathroom sinks     | none |
+| clean bathroom counters  | clean    | bathroom counters  | none |
+| clean bathroom mirrors   | clean    | bathroom mirrors   | none |
+| clean bathroom drawers   | clean    | bathroom drawers   | none |
+| clean bathroom cupboards | clean    | bathroom cupboards | none |
+| pick up books            | pick     | books              | none |
+| pick up toys             | pick     | toys               | none |
+| organize bookshelves     | organize | bookshelves        | none |
+| clean top surfaces       | clean    | top surfaces       | none |
+| clean computer workspace | clean    | computer workspace | none |
+| clean tables             | clean    | tables             | none |
+| dust top surfaces        | dust     | top surfaces       | none |
+| dust computer workspace  | dust     | computer workspace | none |
+| dust tables              | dust     | tables             | none |
+| sort laundry into loads  | sort     | laundry            | none |
+| wash laundry             | wash     | laundry            | none |
+| hang laundry             | hang     | laundry            | none |
+| dry laundry              | dry      | landry             | none |
+| fold laundry             | fold     | laundry            | none |
+| put away laundry         | put      | laundry            | none |
+| dry mop floors           | mop      | floors             | none |
+| sweep floors             | sweep    | floors             | none |
+| wet mop floors           | mop      | floors             | none |
+| scrub floors             | scrub    | floors             | none |
+| vacuum floors            | vacuum   | floors             | none |
+| shampoo carpets          | shampoo  | carpets            | none |
+| wax floors               | wax      | floors             | none |
+| take out garbage         | take     | garbage            | none |
+| dust anything else       | dust     | anything else      | none |
+| take care of pets        | take     | pets               | none |
+| wash windows             | wash     | windows            | none |
+

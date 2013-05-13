@@ -1,0 +1,30 @@
+| make the beds                                  | make   | beds       | none |
+| sweep all the floors                           | sweep  | floors     | none |
+| open windows and let some air in               | open   | windows    | none |
+| wash dishes                                    | wash   | dishes     | none |
+| wipe down counters in kitchen                  | wipe   | counters   | none |
+| wipe down counters in bathroom                 | wipe   | counter    | none |
+| take out trash                                 | take   | trash      | none |
+| make lunchboxes for school-going kids          | make   | lunchboxes | none |
+| make breakfast                                 | make   | breakfast  | none |
+| make lunch                                     | make   | lunch      | none |
+| make dinner                                    | make   | dinner     | none |
+| water plants                                   | water  | plants     | none |
+| feed pets                                      | feed   | pets       | none |
+| give water to pets                             | give   | water      | none |
+| vacuum carpets                                 | vacuum | carpets    | none |
+| wash down floors                               | wash   | floors     | none |
+| change bedding                                 | change | bedding    | none |
+| hang blankets outside to air                   | hang   | blankets   | none |
+| change towels                                  | change | towel      | none |
+| dust everywhere                                | dust   | everywhere | none |
+| clean stove top                                | clean  | stovetop   | none |
+| clean oven                                     | clean  | oven       | none |
+| wash clothes                                   | wash   | clothes    | none |
+| clean out filters of washing machine and dryer | clean  | filters    | none |
+| do the ironing                                 | do     | ironing    | none |
+| clean toilets                                  | clean  | toilets    | none |
+| clean sinks                                    | clean  | sink       | none |
+| clean bathtubs                                 | clean  | bathtubs   | none |
+
+  

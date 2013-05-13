@@ -1,0 +1,25 @@
+Make bed
+Clean bedroom
+Clean bathroom
+Clean countertops in kitchen
+Sweep kitchen floor
+Wash dishes
+put away dishes
+clean Toilets 
+clean sinks in bathrooms
+clean counters in bathrooms
+light colors Laundry
+dark colors Laundry
+Vacuum Downstairs
+Wash sheets, towels and robes
+Vacuum Upstairs
+Dust
+Disinfect
+Clean kitchen floors
+Clean bathroom floors
+Clean refrigerator
+Organize a closet
+Organize Pantry
+Clear kitchen basket
+Wipe Floor Boards Upstairs
+Wipe Floor Boards Downstairs

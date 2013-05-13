@@ -1,0 +1,33 @@
+sweep kitchen floor
+mop kitchen floor
+empty dishwasher
+fill dishwasher
+empty kitchen trash
+empty compost
+empty plastic recycling
+empty paper recycling
+empty glass recycling
+clean counters
+clean stove
+clean sink
+defrost freezer
+sweep toilet floor
+mop toilet floor
+change cat litter
+clean toilet sinks
+clean toilet
+change laundry filter
+empty toilet garbage
+empty shower garbage
+sweep shower floor
+mop shower floor
+clean shower
+clean under wooden crate
+clean shower sink
+clean shower mirror
+wash shower bath mats
+sweep painted hall
+mop painted hall
+sweep living room
+mop living room
+water plants

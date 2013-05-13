@@ -1,0 +1,36 @@
+| give water to cats                           | give       | water              | none |
+| clean litter box                             | clean      | litter box         | none |
+| make bed                                     | make       | bed                | none |
+| clean room                                   | clean      | room               | none |
+| straighten room                              | straighten | room               | none |
+| empty trash                                  | empty      | trash              | none |
+| vacuum 1st floor                             | vacuum     | 1st floor          | none |
+| take dirty rags from kitchen to the basement | take       | dirty rags         | none |
+| feed dog                                     | feed       | dog                | none |
+| feed bird                                    | feed       | bird               | none |
+| feed turtles                                 | feed       | turtles            | none |
+| give water to dog                            | give       | water              | none |
+| give water to bird                           | give       | water              | none |
+| give water to turtles                        | give       | water              | none |
+| load dishwasher                              | load       | dishwasher         | none |
+| unloaded dishwasher                          | unload     | dishwasher         | none |
+| vacuum entire upstairs                       | vacuum     | upstairs           | none |
+| clean room                                   | clean      | room               | none |
+| change sheets                                | chage      | sheets             | none |
+| straighten clothes in dresser                | straighten | clothes            | none |
+| clean tub                                    | clean      | tub                | none |
+| clean sink                                   | clean      | sink               | none |
+| wipe up bathroom floor                       | wipe       | bathrom floor      | none |
+| take dirty clothes to basement               | take       | dirty clothes      | none |
+| sort dirty clothes to proper baskets         | sort       | dirty clothes      | none |
+| empty upstairs trash                         | empty      | trash              | none |
+| mop downstairs bathroom                      | mop        | bathroom           | none |
+| straighten kitchen                           | straighten | kitchen            | none |
+| vacuum kitchen                               | vacuum     | kitchen            | none |
+| shake rugs                                   | shake      | rugs               | none |
+| clean bird cage                              | clean      | bird cage          | none |
+| vacuum basement                              | vacuum     | basement           | none |
+| vacuum basement steps                        | vacuum     | basement steps     | none |
+| vacuum steps that go to the second floor     | vaccumm    | steps              | none |
+| wipe down dining room table                  | wipe       | dining room table  | none |
+| wipe down dining room chairs                 | wipe       | dining room chairs | none |

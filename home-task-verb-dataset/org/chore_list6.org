@@ -1,0 +1,42 @@
+| clean up breakfast           | clean      | breakfast       | none |
+| make breakfast               | make       | breakfast       | none |
+| clean up bathroom sink       | clean      | bathroom sink   | none |
+| make lunch                   | make       | lunch           | none |
+| clean up lunch               | clean      | lunch           | none |
+| take trash out               | take       | trash           | none |
+| clean up videos              | clean      | videos          | none |
+| clean up computer cds        | clean      | computer cds    | none |
+| take out recycles            | take       | recycles        | none |
+| do the dishes                | do         | dishes          | none |
+| do laundry                   | do         | laundry         | none |
+| clean room                   | clean      | room            | none |
+| dust room                    | dust       | room            | none |
+| vacuum room                  | vacuum     | room            | none |
+| vacuum living room           | vacuum     | living room     | none |
+| vacuum hall                  | vacuum     | hall            | none |
+| wipe off baseboard           | wipe       | baseboard       | none |
+| wipe off heaters             | wipe       | heaters         | none |
+| clean bathroom               | clean      | bathroom        | none |
+| clean glass doors            | clean      | glass doors     | none |
+| clean computer screen        | clean      | computer screen | none |
+| clean tv                     | clean      | tv              | none |
+| clean entry way floor        | clean      | entry way floor | none |
+| dust living room             | dust       | living room     | none |
+| organize library books       | organize   | library books   | none |
+| collect trash from all rooms | collect    | trash           | none |
+| wash kitchen chairs          | wash       | kitchen chairs  | none |
+| straighten school shelf      | straighten | school shelf    | none |
+| change sheets                | change     | sheets          | none |
+| vacuum under furniture       | vacuum     | furniture       | none |
+| vacuum under cushions        | vacuum     | cushions        | none |
+| wash chalkboard              | wash       | chalkboard      | none |
+| wash baseboard               | wash       | basboard        | none |
+| clean out refrigerator       | clean      | fridge          | none |
+| take sheets off beds         | take       | sheet           | none |
+| clean door knobs             | clean      | door knobs      | none |
+| clean switch plates          | clean      | switch plates   | none |
+| clean fronts of refrigerator | clean      | fridge          | none |
+| clean stove                  | clean      | stove           | none |
+| clean dishwasher             | clean      | dishwasher      | none |
+| wipe off washing machine     | wipe       | washing machine | none |
+| wipe off dryer               | wipe       | dryer           | none |

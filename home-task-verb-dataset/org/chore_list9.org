@@ -1,0 +1,41 @@
+| put away pajamas                              | put    | pajamas           | none |
+| make beds                                     | make   | beds              | none |
+| pick up toys                                  | pick   | toys              | none |
+| put all books on the shelf                    | put    | books             | none |
+| pick up garbage off the floor                 | pick   | garbage           | none |
+| wipe table                                    | wipe   | table             | none |
+| sweep under table                             | sweep  | table             | none |
+| turn off filter                               | turn   | filter            | none |
+| turn off fans                                 | turn   | fans              | none |
+| remove clothes on the floor                   | remove | clothes           | none |
+| hang up clothes neatly in the closet          | hang   | clothes           | none |
+| remove garbage on the floor                   | remove | garbage           | none |
+| put any leftovers in containers in the fridge | put    | leftovers         | none |
+| put dirty dishes in sink                      | put    | dirty dishes      | none |
+| wipe off counters                             | wipe   | counters          | none |
+| empty dishwasher                              | empty  | dishwasher        | none |
+| fill dishwasher                               | fill   | dishwasher        | none |
+| empty garbage                                 | empty  | garbage           | none |
+| do laundry                                    | do     | laundry           | none |
+| dust sports shelf                             | dust   | sparts shelf      | none |
+| vacuum dining room                            | vacuum | dining room       | none |
+| clean counter in bathroom                     | clean  | counter           | none |
+| sweep bathroom floor                          | sweep  | bathroom floor    | none |
+| wipe down toilet                              | wipe   | toilet            | none |
+| vacuum living room                            | vacuum | living room       | none |
+| vacuum hallway                                | vacuum | hallway           | none |
+| wipe down kitchen counters                    | wipe   | kitchen counters  | none |
+| wipe down refrigerator                        | wipe   | fridge            | none |
+| wipe down stove                               | wipe   | stove             | none |
+| wipe down dishwasher                          | wipe   | dishwasher        | none |
+| wipe down microwave                           | wipe   | microwave         | none |
+| wipe bathroom counters                        | wipe   | bathroom counters | none |
+| wipe mirror                                   | wipe   | mirron            | none |
+| mop bathroom                                  | mop    | bathroom          | none |
+| clean entry way                               | clean  | entry way         | none |
+| sweep entry                                   | sweep  | entry             | none |
+| mop entry                                     | mop    | entry             | none |
+| dust family room                              | dust   | family room       | none |
+| neat videos                                   | neat   | videos            | none |
+| neat nintendo                                 | neat   | nintendo          | none |
+| vacuum family room                            | vacuum | family room       | none |

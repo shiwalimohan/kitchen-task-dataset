@@ -32,11 +32,11 @@ echo "COMPLETED COLLECTION"
 
 echo "EXTRACTING VERB CLASSES ..."
 echo ./extractVerbNetClasses.py -i $verbOrgFile -o $verbClassesOrgFile -c $verbCSVFile -x $verbNetXML
-#./extractVerbNetClasses.py -i $verbOrgFile -o $verbClassesOrgFile -c $verbCSVFile -x $verbNetXML
+./extractVerbNetClasses.py -i $verbOrgFile -o $verbClassesOrgFile -c $verbCSVFile -x $verbNetXML
 echo "COMPLETED EXTRACTION"
 
 echo "UPLOADING FILES"
 echo ./uploadGoogleSpreadSheet.py -s $googleVerbClasses -f $verbCSVFile -k $verbClassesKeyFile
-#./uploadGoogleSpreadSheet.py -s $googleVerbClasses -f $verbCSVFile -k $verbClassesKeyFile
+./uploadGoogleSpreadSheet.py -s $googleVerbClasses -f $verbCSVFile -k $verbClassesKeyFile
 echo ./uploadGoogleSpreadSheet.py -s $googleVerbData -f $dataCSVFile  -k $verbDataKeyFile
 ./uploadGoogleSpreadSheet.py -s $googleVerbData -f $dataCSVFile -k $verbDataKeyFile

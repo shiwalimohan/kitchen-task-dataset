@@ -1,0 +1,71 @@
+| tidy up bedroom                                              |
+| feed frogs                                                   |
+| tuck-in slipcovers on living room furniture                  |
+| dinner preparation                                           |
+| lunch clean-up                                               |
+| dinner clean-up                                              |
+| tidy up bedroom                                              |
+| feed mouse                                                   |
+| change water for mouse                                       |
+| breakfast clean-up                                           |
+| lunch preparation                                            |
+| straighten up bathrooms                                      |
+| straighten up school room                                    |
+| take things upstairs and put into proper rooms               |
+| fix beverages for all meals                                  |
+| make bed                                                     |
+| tidy bedroom                                                 |
+| pick up dirty clothes                                        |
+| put away toys                                                |
+| put away books                                               |
+| feed dog                                                     |
+| give water to dog                                            |
+| clean out dog dishes                                         |
+| take trash to recycling bins and garbage cans                |
+| straighten the living room                                   |
+| pick up toys                                                 |
+| pick up clothes                                              |
+| pick up shoes                                                |
+| pick up books                                                |
+| fold throws                                                  |
+| put pillows on the furniture                                 |
+| bring in the mail and newspaper                              |
+| breakfast preparation                                        |
+| set the table before meals                                   |
+| clear the table after meals                                  |
+| vacuum downstairs                                            |
+| mop bathrooms and kitchen                                    |
+| change bed sheets                                            |
+| put away laundry                                             |
+| straighten linen closet                                      |
+| straighten pantries                                          |
+| straighten video closet                                      |
+| clean out fireplace                                          |
+| replenish fire wood supply                                   |
+| clean frog tank                                              |
+| clean mouse cage                                             |
+| clean bathrooms                                              |
+| scrub sinks                                                  |
+| scrub toilets                                                |
+| scrub bathtub                                                |
+| scrub mirrors                                                |
+| dust dining room                                             |
+| dust living room                                             |
+| dust school room                                             |
+| straighten basement (play room area)                         |
+| vacuum basement (play room area)                             |
+| clean storm doors                                            |
+| clean stove top                                              |
+| dinner preparation                                           |
+| dinner clean-up                                              |
+| vacuum living room carpet                                    |
+| vacuum school room rug                                       |
+| wipe off school room chairs                                  |
+| clean computer screen with glass cleaner                     |
+| clean television screen with glass cleaner                   |
+| clean front of stove with glass cleaner and/or sponge        |
+| clean front of dishwasher with glass cleaner and/or sponge   |
+| clean front of refrigerator with glass cleaner and/or sponge |
+| straighten up bicycles in garage                             |
+| straighten up toys in garage                                 |
+| sweep garage                                                 |

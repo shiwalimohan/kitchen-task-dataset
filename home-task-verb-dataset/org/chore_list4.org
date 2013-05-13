@@ -1,0 +1,19 @@
+| pick up toys                | pick   | toys             | none |
+| put dirty clothes in hamper | put    | dirty clothes    | none |
+| dust furniture              | dust   | furniture        | none |
+| make bed                    | make   | bed              | none |
+| put clean laundry away      | put    | clean laundry    | none |
+| wipe window sills           | wipe   | window sills     | none |
+| empty small trash cans      | empty  | small trash cans | none |
+| make lunch                  | make   | lunch            | none |
+| fold clothes                | fold   | clothes          | none |
+| vacuum                      | vacuum | none             | none |
+| wipe bathroom sink          | wipe   | bathroom sink    | none |
+| do laundry                  | do     | laundry          | none |
+| assist cooking              | assist | cooking          | none |
+| take out the trash          | take   | trash            | none |
+| clean the shower            | clean  | shower           | none |
+| clean the tub               | clean  | tub              | none |
+| unload the dishwasher       | unload | dishwasher       | none |
+| do the dishes               | do     | dishes           | none |
+

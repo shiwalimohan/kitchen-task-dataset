@@ -1,0 +1,14 @@
+| clean off the table  | clean  | table     | none |
+| clean up the room    | clean  | room      | none |
+| dust the furniture   | dust   | furniture | none |
+| make the bed         | make   | bed       | none |
+| mop the floor        | mop    | floor     | none |
+| polish the furniture | polish | furniture | none |
+| put away the books   | put    | the books | none |
+| set the table        | set    | table     | none |
+| sweep up the mess    | sweep  | mess      | none |
+| take out the trash   | take   | trash     | none |
+| tidy up the closet   | tidy   | closet    | none |
+| vacuum the floor     | vacuum | floor     | none |
+| wash the clothes     | wash   | clothes   | none |
+| wash down the walls  | wash   | walls     | none |

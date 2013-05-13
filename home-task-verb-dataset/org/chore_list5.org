@@ -1,0 +1,18 @@
+| vacuum kitchen            | vacuum     | kitchen          | none |
+| empty trash               | empty      | trash            | none |
+| clean bathroom            | clean      | bathroom         | none |
+| empty dishwasher          | empty      | dishwasher       | none |
+| sort laundry              | sort       | laundry          | none |
+| feed pet                  | feed       | pet              | none |
+| stock napkins             | stock      | napkins          | none |
+| water plants              | water      | plants           | none |
+| tidy library books        | tidy       | library books    | none |
+| prepare breakfast         | prepare    | breakfast        | none |
+| straighten books          | straighten | books            | none |
+| tidy videos               | tidy       | videos           | none |
+| tidy school drawers       | tidy       | school drawers   | none |
+| vacuum living room        | vacuum     | living room      | none |
+| vacuum hall               | vacuum     | hall             | none |
+| organize bathroom drawers | organize   | bathroom drawers | none |
+| organize shoe basket      | organize   | shoe basket      | none |
+| make lunch                | make       | lunch            | none |

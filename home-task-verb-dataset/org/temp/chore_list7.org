@@ -1,0 +1,54 @@
+| change litter box            | change     | litter box       | none |
+| help make breakfast          | make       | breakfast        | none |
+| make all the beds            | make       | beds             | none |
+| feed cat                     | feed       | cat              | none |
+| give water to cat            | give       | water            | none |
+| clear off tables             | clear      | tables           | none |
+| clear off chairs             | clear      | chairs           | none |
+| wipe tables                  | wipe       | tables           | none |
+| wipe chairs                  | wipe       | chairs           | none |
+| put away tables              | put        | tables           | none |
+| put away chairs              | put        | chairs           | none |
+| clean up highchair           | clean      | highchair        | none |
+| vacuum floor                 | vacuum     | floor            | none |
+| straighten up bedrooms       | straighten | bedrooms         | none |
+| straighten up living room    | straighten | living room      | none |
+| do laundry                   | do         | laundry          | none |
+| fold washcloths              | fold       | washcloth        | none |
+| fold kitchen towels          | fold       | kitchen towers   | none |
+| fold children clothes        | fold       | children clothes | none |
+| fold bath towels             | fold       | bath towels      | none |
+| fold adult clothes           | fold       | adult clothes    | none |
+| put away all the laundry     | put        | laundry          | none |
+| vacuum hall                  | vacuum     | hall             | none |
+| vacuum kitchen               | vacuum     | kitchen          | none |
+| vacuum living room           | vacuum     | living room      | none |
+| vacuum bedrooms              | vacuum     | bedrooms         | none |
+| straighten up living room    | straighten | living room      | none |
+| straighten up bedrooms       | straighten | bedroom          | none |
+| straighten up hall           | straighten | hall             | none |
+| straighten up bathrooms      | staighten  | bathrooms        | none |
+| straighten up kitchen        | straighten | kitchen          | none |
+| prepare drinks for dinner    | prepare    | drinks           | none |
+| set up tables for dinner     | set        | tables           | none |
+| set up chairs for dinner     | set        | chairs           | none |
+| set up silverware for dinner | set        | silverware       | none |
+| set up napkins for dinner    | set        | napkins          | none |
+| set up dishes                | set        | dishes           | none |
+| vacuum kitchen               | vacuum     | kitchen          | none |
+| take out trash               | take       | trash            | none |
+| wash dishes                  | wash       | dishes           | none |
+| wash appliances              | wash       | appliances       | none |
+| wash cabinet fronts          | wash       | cabinet fronts   | none |
+| rinse dishes                 | rinse      | dishes           | none |
+| wash off countertops         | wash       | countertops      | none |
+| clean bathroom sinks         | clean      | bathroom sinks   | none |
+| clean vanity                 | clean      | vanity           | none |
+| pick up the floor            | pick       | floor            | none |
+| scrub the bathroom           | scrub      | bathroom         | none |
+| scrub the kitchen            | scrub      | kitchen          | none |
+| scrub the laundry room       | scrub      | laundry room     | none |
+| mop the floor                | mop        | floor            | none |
+| vacuum the house             | vacuum     | house            | none |
+| sweep the patios             | sweep      | patios           | none |
+| clean out fridge             | clean      | fridge           | none |

@@ -1,0 +1,22 @@
+| make bed                        | make  | bed                   | none |
+| empty dishwasher                | empty | dishwasher            | none |
+| fold laundry                    | fold  | laundry               | none |
+| put laundry away                | put   | laundry               | none |
+| dust room                       | dust  | room                  | none |
+| sweep kitchen floor             | sweep | kitchen floor         | none |
+| sweep bathroom floor            | sweep | bathroom floor        | none |
+| clean bathroom counter          | clean | bathroom counter      | none |
+| pick up toys                    | pick  | toys                  | none |
+| help dinner preparation         | help  | dinner preparation    | none |
+| clear table                     | clean | table                 | none |
+| wash table                      | wash  | table                 | none |
+| empty bathroom trash cans       | empty | bathroom trash cans   | none |
+| feed dog                        | feed  | dog                   | none |
+| wash counter                    | wash  | counter               | none |
+| pick up toys                    | pick  | toys                  | none |
+| help with lunch preparation     | help  | lunch preparation     | none |
+| set table                       | set   | table                 | none |
+| wash front of dishwasher        | wash  | dishwasher            | none |
+| wash front of refrigerator      | wash  | fridge                | none |
+| wash front of oven              | wash  | over                  | none |
+| help with breakfast preparation | help  | breakfast preparation | none |

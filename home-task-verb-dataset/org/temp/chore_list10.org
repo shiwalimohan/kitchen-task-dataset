@@ -1,0 +1,30 @@
+| make bed                 | make    | bed               | none |
+| clean room               | clean   | room              | none |
+| remove sheets            | remove  | sheets            | none |
+| empty dishwasher         | empty   | dishwasher        | none |
+| bedroom cleaning         | clean   | bedroom           | none |
+| close dresser drawers    | close   | dresser drawers   | none |
+| clean up sega            | clean   | sega              | none |
+| close closet doors       | close   | closet doors      | none |
+| vacuum assigned rooms    | vacuum  | assigned room     | none |
+| fold clothes             | fold    | clothes           | none |
+| dust                     | dust    | none              | none |
+| wash windows             | wash    | windows           | none |
+| wash bathroom mirrors    | wash    | bathroom mirrors  | none |
+| vacuum stairs            | vacuum  | stairs            | none |
+| fold towels              | fold    | towers            | none |
+| sweep foyer              | sweep   | foyer             | none |
+| clean upstairs bathroom  | clean   | bathroom          | none |
+| clean sink               | clean   | sink              | none |
+| wipe toilet              | wipe    | toilet            | none |
+| wipe floor around toilet | wipe    | floor             | none |
+| sweep room               | sweep   | room              | none |
+| put laundry down chute   | put     | laundry           | none |
+| wipe banister            | wipe    | banister          | none |
+| wipe stove               | wipe    | stove             | none |
+| wipe dishwasher          | wipe    | dishwasher        | none |
+| wipe refrigerator        | wipe    | fridge            | none |
+| arrange shoe bench       | arrange | shoe bench        | none |
+| wipe cabinet fronts      | wipe    | cabinet fronts    | none |
+| wipe doors               | wipe    | doors             | none |
+| wipe doorknobs           | wipe    | doorknobs         | none |

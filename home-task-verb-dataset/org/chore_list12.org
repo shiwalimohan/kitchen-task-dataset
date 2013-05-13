@@ -1,0 +1,58 @@
+| mop kitchen                  | mop        | kitchen                 | none |
+| wipe washer                  | wipe       | washer                  | none |
+| wipe dryer                   | wipe       | dryer                   | none |
+| straighten drawers           | straighten | drawers                 | none |
+| straighten dishes            | straighten | dishes                  | none |
+| dust table in dining room    | dust       | table                   | none |
+| dust pictures in dining room | dust       | pictures                | none |
+| dust table in living room    | dust       | table                   | none |
+| dust piano in living room    | dust       | piano                   | none |
+| dust desk in living room     | dust       | desk                    | none |
+| dust lamps in living room    | dust       | lamps                   | none |
+| wash kitchen cabinets        | wash       | kitchen cabinets        | none |
+| dust hall pictures           | dust       | hall pictures           | none |
+| clean mirror in living room  | clean      | mirror                  | none |
+| dust office                  | dust       | office                  | none |
+| dust dresser                 | dust       | dresser                 | none |
+| dust night stands            | dust       | night stands            | none |
+| dust window sill             | dust       | window sill             | none |
+| clean sink in bathroom       | clean      | sink                    | none |
+| clean mirror in bathroom     | clean      | mirror                  | none |
+| clean toilet in bathroom     | clean      | toilet                  | none |
+| clean shelf in bathroom      | clean      | shelf                   | none |
+| straighten dining room       | straighten | dining room             | none |
+| vacuum dining room           | vacuum     | dining room             | none |
+| sort laundry                 | sort       | laundry                 | none |
+| sweep laundry room           | sweep      | laundry room            | none |
+| fold laundry                 | fold       | laundry                 | none |
+| make bed                     | make       | bed                     | none |
+| pick up bedroom              | pick       | bedroom                 | none |
+| straighten hall              | straighten | hall                    | none |
+| straighten living room       | straighten | living room             | none |
+| straighten back bathroom     | straighten | back bathroom           | none |
+| straighten front bathroom    | straighten | front bathroom          | none |
+| straighten office            | straighten | office                  | none |
+| straighten dining room       | straighten | dining room             | none |
+| wipe living room window sill | wipe       | living room window sill | none |
+| wipe stove                   | wipe       | stove                   | none |
+| wipe walls                   | wipe       | walls                   | none |
+| wipe oven                    | wipe       | oven                    | none |
+| wipe dish washer             | wipe       | dish washer             | none |
+| wipe refrigerator            | wipe       | fridge                  | none |
+| water plant                  | water      | plant                   | none |
+| vacuum hall                  | vacuum     | hall                    | none |
+| vacuum living room           | vacuum     | living room             | none |
+| vacuum father's room         | vacuum     | father's room           | none |
+| get mail                     | get        | mail                    | none |
+| put away food                | put        | food                    | none |
+| wipe table                   | wipe       | table                   | none |
+| set table                    | set        | table                   | none |
+| help meal preparation        | help       | meal preparation        | none |
+| clear table                  | clear      | table                   | none |
+| empty dishwasher             | empty      | dishwasher              | none |
+| empty trash                  | empty      | trash                   | none |
+| wash dishes                  | wash       | dishes                  | none |
+| wipe counters                | wipe       | counters                | none |
+| empty sink                   | empty      | sink                    | none |
+| pick up floor                | pick       | floor                   | none |
+| wipe counters                | wipe       | counters                | none |
